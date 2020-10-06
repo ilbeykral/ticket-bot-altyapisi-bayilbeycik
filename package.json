@@ -1,0 +1,26 @@
+{
+  "name": "ilbeybey",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Ä°lbey",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security",
+    "megadb": "^3.4.0",
+    "moment": "^2.29.0",
+    "ms": "^2.1.2",
+    "node-superfetch": "^0.1.10",
+    "parse-ms": "^2.1.0",
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9",
+    "enmap": "^5.3.2",
+    "sqlite3": "^5.0.0"
+
+   }
+}
